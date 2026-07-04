@@ -21,7 +21,7 @@ It is **not** a chatbot, an interactive textbook, or another UpToDate/WebMD. It 
 
 Every node is constructed under a strict operational **doctrine stack** — a set of interlocking standards that turn a published scientific claim into a stable graph node and a typed relationship. Sources are current peer-reviewed publications (primary papers and major reviews, not textbook summaries). Because every entry is built to the same standard, findings from molecular biology, clinical neurology and psychiatry, behavioral psychology, and systems neuroscience all occupy the **same graph language** rather than staying trapped in separate literatures.
 
-**A physician makes the final call on every node.** The AI does the labor; the scientific judgment — construction, review, and sign-off — is human.
+**I make the final call on every node.** The AI does the labor; the scientific judgment — meticulous construction, review, and sign-off — is human.
 
 ## What exists today
 
